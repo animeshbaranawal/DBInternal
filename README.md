@@ -1,0 +1,2 @@
+# DBInternal
+O'Diary Project
