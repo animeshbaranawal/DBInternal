@@ -1,0 +1,7 @@
+<servlet-mapping>
+<servlet-name>GoToHome</servlet-name>
+<url-pattern>/database/GoToHome.java</url-pattern>
+
+<servlet-name>searchUser</servlet-name>
+<url-pattern>/database/searchUser.java</url-pattern>
+</servlet-mapping>
